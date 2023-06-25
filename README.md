@@ -17,3 +17,5 @@ Summary of results <br>
 | ENet  | 0.835  | 0.716  |350,076|
 | ESNet  | 0.8515  | 0.7422  |1,658,356|
 | DeepLabV3  | 0.8617  | 0.758  | 39,635,528|
+
+![](imgs/pred.png)
